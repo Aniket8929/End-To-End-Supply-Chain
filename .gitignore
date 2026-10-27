@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Data Analytics - Generated Files
+*.parquet
+*.pkl
+*.pickle
+
+# Python Testing
+.pytest_cache/
+.coverage
+htmlcov/
